@@ -41,10 +41,6 @@ Run the following command:
 - Task 2: Text Classification with Recurrent Neural Networks (RNN)
 This task trains a text classification model using Recurrent Neural Networks (RNNs). The script train_rnn.py processes textual data and performs classification.
 
-# Usage:
-Prepare a text dataset in CSV format (with columns for text and labels).
-Run the following command:
-
 # Contributing
 We welcome contributions to improve this repository! If you would like to add new model training tasks or enhance existing ones, please fork the repository and submit a pull request.
 
