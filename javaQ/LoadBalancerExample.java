@@ -1,4 +1,4 @@
-// idea 2
+// idea
 
 /*
 I am a software developer at a product-based company, and I need Develop a load balancing algorithm that 
