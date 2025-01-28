@@ -2,7 +2,7 @@
 This repository contains various AI model training tasks, including examples and scripts for training different machine learning and deep learning models. It is designed to help you train AI models efficiently and understand the processes involved.
 
 Table of Contents
-Installation
+Installation  
 Usage
 Model Training Tasks
 Task 1: Model Name
